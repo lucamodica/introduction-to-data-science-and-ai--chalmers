@@ -8,6 +8,6 @@ A collection of small-scale projects to explore the basics of Data Science and A
 - neural networks
 - rule based-AI.
 
-All the project are contained in the `assignments` folder.
+All the projects are contained in the `assignments` folder.
  
 > Based on the master's degree in Data Science & AI at Chalmers University of Technology, Introduction to data science and AI course (DAT565) (2023/2024). It's possible to find part of the course material in the `lectures` folder. 
